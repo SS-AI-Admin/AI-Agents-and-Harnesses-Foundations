@@ -12,6 +12,8 @@ dependencies = [
     "isort>=9.0.2",
     "langchain>=1.4.6",
     "langchain-core>=1.6.12",
+    "langchain-ollama>=1.1.0",
+    "langchain-openai>=1.7.2",
 ]
 
 [project.scripts]
